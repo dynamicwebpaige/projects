@@ -1,6 +1,6 @@
 # ⏳ @DynamicWebPaige: BUILDING...
 
-[](https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/21077722_10155661650751672_7301813282035742921_n.jpg?_nc_cat=110&_nc_ht=scontent-sea1-1.xx&oh=f4a69e45b87125942531cc562a1a9d0b&oe=5C56296D)
+![](https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/21077722_10155661650751672_7301813282035742921_n.jpg?_nc_cat=110&_nc_ht=scontent-sea1-1.xx&oh=f4a69e45b87125942531cc562a1a9d0b&oe=5C56296D)
 
 👋 Howdy!
  
@@ -9,9 +9,9 @@ Below are some more or less helpful resources for understanding what I've been d
 -----------------------------------------
 
 ### 🗣 Notable recent conference talks:
-* **Deep Fashion: A Totally Rad Introduction to Transfer Learning** (Anaconda Con, April 2018)
-* **Kill (Deep) Math!** (ML4ALL, May 28, 2018)
-* **BUILD 2018 Azure Keynote: Azure DataBricks and Azure Cognitive Search** (May 2018)
+* **[Deep Fashion: A Totally Rad Introduction to Transfer Learning](https://www.youtube.com/watch?v=Kl1QeOMwe-A)** (Anaconda Con, April 2018)
+* **[Kill (Deep) Math!](https://www.youtube.com/watch?v=n5ae9SejRh4)** (ML4ALL, May 28, 2018)
+* **[BUILD 2018 Azure Keynote: Azure DataBricks and Azure Cognitive Search](https://www.youtube.com/watch?v=n5ae9SejRh4)** (May 2018)
  
 The first is an end-to-end machine learning case study: building a model, containerizing it, and then deploying it with Azure Model Management + calling it as a REST API. The second is an exploration of the mathematics required to implement a neural network. The final example are two quick demos for Build 2018 - one on Azure Cognitive Search, one on Azure DataBricks.
  
