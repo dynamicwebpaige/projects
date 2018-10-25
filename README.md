@@ -2,10 +2,6 @@
 
 ![](https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/21077722_10155661650751672_7301813282035742921_n.jpg?_nc_cat=110&_nc_ht=scontent-sea1-1.xx&oh=f4a69e45b87125942531cc562a1a9d0b&oe=5C56296D)
 
-👋 Howdy!
- 
-Below are some more or less helpful resources for understanding what I've been doing with my life over the last few years. 
-
 -----------------------------------------
 
 ### 🗣 Notable recent conference talks:
@@ -20,47 +16,35 @@ The first is an end-to-end machine learning case study: building a model, contai
 
 -----------------------------------------
 
-### 📊 Digital Signal Processing with R 
+### 📊 [Digital Signal Processing with R](http://signalsand.systems)
 Examples were generated in RMarkdown. The textbook are figures and code to support an open-source DSP textbook from Richard Baraniuk; the other are examples for an R package.
 
-[link](http://signalsand.systems)
-
 -----------------------------------------
 
-### 👩‍🏫 Coursework for the Coursera study group I led at Chevron. 
+### 👩‍🏫 [Coursework for the Coursera study group I led at Chevron.](http://calculated.solutions/coursera)
 I was also selected to serve as a mentor for the Chevron Data Science Development Program - an elite group of prospective data scientists, mostly coming from the internal research group. Almost all of my pupils had PhDs - which was a tad bit surreal, but very fun!
-
-[link](http://calculated.solutions/coursera)
  
-In-progress examples of R code to supplement open-source statistics textbooks:
-[link](http://calculated.solutions/stats.html)
+[In-progress examples of R code to supplement open-source statistics textbooks.](http://calculated.solutions/stats.html)
 
 -----------------------------------------
 
-### 💻 Links to resources used for BUILD talks:
+### 💻 [Links to resources used for BUILD talks](https://notebooks.azure.com/dynamicwebpaige/libraries/mvpsummit-1)
 Four this year: two on DevOps for Data Science, one on Machine Learning at Scale, and an Introduction to Tensorflow with Keras.
-[link](https://notebooks.azure.com/dynamicwebpaige/libraries/mvpsummit-1)
 
 -----------------------------------------
 
-### 💾 GitHub contributions
+### 💾 [GitHub contributions](https://github.com/dynamicwebpaige?tab=repositories)
 Mostly documentation, especially Azure documentation - but you'll also see ethical modeling guidelines, a few NASA Space Math examples, and machine learning code snippets for VS Code. Have also added minor changes to docs for Magenta, TensorBoard, TensorFlow, and Keras.
 
-[link](https://github.com/dynamicwebpaige?tab=repositories)
-
 -----------------------------------------
 
-### ⚖ Proxy Bias Vignette with R
+### ⚖ [Proxy Bias Vignette with R]((http://blog.revolutionanalytics.com/2018/06/understanding-bias.html)
 Created during the rOpenSci Unconference; was invited to attend by the good folks at numFOCUS. It was a heck of a lot of fun!
 
-[link](http://blog.revolutionanalytics.com/2018/06/understanding-bias.html)
-
 -----------------------------------------
 
-### 🚛 DeepParking: Microsoft One Week Hackathon 2018
+### 🚛 [DeepParking: Microsoft One Week Hackathon 2018](https://github.com/DeepParking/DeepParking)
 A mobile application that directs Microsoft employees to the closest vacant parking spot in Building 43, based on vehicle type. Uses YOLO to detect cars parked in spaces.
-
-[link](https://github.com/DeepParking/DeepParking)
 
 -----------------------------------------
 
