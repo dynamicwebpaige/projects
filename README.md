@@ -38,7 +38,7 @@ Mostly documentation, especially Azure documentation - but you'll also see ethic
 
 -----------------------------------------
 
-### ⚖ [Proxy Bias Vignette with R]((http://blog.revolutionanalytics.com/2018/06/understanding-bias.html)
+### ⚖ [Proxy Bias Vignette with R](http://blog.revolutionanalytics.com/2018/06/understanding-bias.html)
 Created during the rOpenSci Unconference; was invited to attend by the good folks at numFOCUS. It was a heck of a lot of fun!
 
 -----------------------------------------
