@@ -66,19 +66,14 @@ A mobile application that directs Microsoft employees to the closest vacant park
 
 ### 🐤 Some examples of Twitter rants:
 
-* Code samples in less than 280 characters:
-[link](https://twitter.com/DynamicWebPaige/status/928101793971699712)
+* [Code samples in less than 280 characters](https://twitter.com/DynamicWebPaige/status/928101793971699712)
  
-* Jupyter Notebook extension of the day:
-[link](https://twitter.com/DynamicWebPaige/status/984305155783909376)
+* [Jupyter Notebook extension of the day](https://twitter.com/DynamicWebPaige/status/984305155783909376)
  
-* Communicating complex topics + building an open-source community: 
-[link](https://twitter.com/DynamicWebPaige/status/945702102214594560)
+* [Communicating complex topics + building an open-source community](https://twitter.com/DynamicWebPaige/status/945702102214594560)
  
-* Why there is often a disconnect between SWEs and data scientists:
-[link](https://twitter.com/i/moments/937075112343371777)
+* [Why there is often a disconnect between SWEs and data scientists](https://twitter.com/i/moments/937075112343371777)
  
-* Common statistics mistakes when practicing data analysis
-[link](https://twitter.com/DynamicWebPaige/status/1045181095518654464)
+* [Common statistics mistakes when practicing data analysis](https://twitter.com/DynamicWebPaige/status/1045181095518654464)
  
-I, uh, also resuscitate Apple IIs and had a small LLC for wearable machine learning for a bit ([](http://electricute.me)). 😊
+I, uh, also resuscitate Apple IIs and had a small LLC for wearable machine learning for a bit ([electricute.me](http://electricute.me)). 😊
