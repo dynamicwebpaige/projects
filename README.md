@@ -5,7 +5,7 @@
 👋 Howdy!
  
 Below are some more or less helpful resources for understanding what I've been doing with my life over the last few years. 
- 
+
 =======================
 
 ### 🗣 Notable recent conference talks:
@@ -17,7 +17,7 @@ The first is an end-to-end machine learning case study: building a model, contai
  
 - _Attendees for the first two:_ ~100; 
 - _Attendees for the third:_ 6000 in-person, 500k live-streamed, >2M in all.
- 
+
 ============================
 
 ### 📊 Digital Signal Processing with R 
@@ -34,11 +34,11 @@ In-progress examples of R code to supplement open-source statistics textbooks:
 http://calculated.solutions/stats.html
 
 ==============================
- 
+
 ### 💻 Links to resources used for BUILD talks:
 Four this year: two on DevOps for Data Science, one on Machine Learning at Scale, and an Introduction to Tensorflow with Keras.
 https://notebooks.azure.com/dynamicwebpaige/libraries/mvpsummit-1
- 
+
 ==============================
 
 ### 💾 GitHub contributions
@@ -46,18 +46,18 @@ Mostly documentation, especially Azure documentation - but you'll also see ethic
 https://github.com/dynamicwebpaige?tab=repositories
 
 ==============================
- 
+
 ### ⚖ Proxy Bias Vignette with R
 Created during the rOpenSci Unconference; was invited to attend by the good folks at numFOCUS. It was a heck of a lot of fun!
 http://blog.revolutionanalytics.com/2018/06/understanding-bias.html
 
 ==============================
- 
+
 ### 🚛 DeepParking: Microsoft One Week Hackathon 2018
 https://github.com/DeepParking/DeepParking
 
 ==============================
- 
+
 ### 🐤 Some examples of Twitter rants:
 Code samples in less than 280 characters:
 https://twitter.com/DynamicWebPaige/status/928101793971699712
