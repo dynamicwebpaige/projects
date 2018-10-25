@@ -6,7 +6,7 @@
  
 Below are some more or less helpful resources for understanding what I've been doing with my life over the last few years. 
 
-=======================
+-----------------------------------------
 
 ### 🗣 Notable recent conference talks:
 * **Deep Fashion: A Totally Rad Introduction to Transfer Learning** (Anaconda Con, April 2018)
@@ -18,13 +18,13 @@ The first is an end-to-end machine learning case study: building a model, contai
 - _Attendees for the first two:_ ~100; 
 - _Attendees for the third:_ 6000 in-person, 500k live-streamed, >2M in all.
 
-============================
+-----------------------------------------
 
 ### 📊 Digital Signal Processing with R 
 Examples were generated in RMarkdown. The textbook are figures and code to support an open-source DSP textbook from Richard Baraniuk; the other are examples for an R package.
 http://signalsand.systems
 
-==============================
+-----------------------------------------
 
 ### 👩‍🏫 Coursework for the Coursera study group I led at Chevron. 
 I was also selected to serve as a mentor for the Chevron Data Science Development Program - an elite group of prospective data scientists, mostly coming from the internal research group. Almost all of my pupils had PhDs - which was a tad bit surreal, but very fun!
@@ -33,30 +33,30 @@ http://calculated.solutions/coursera
 In-progress examples of R code to supplement open-source statistics textbooks:
 http://calculated.solutions/stats.html
 
-==============================
+-----------------------------------------
 
 ### 💻 Links to resources used for BUILD talks:
 Four this year: two on DevOps for Data Science, one on Machine Learning at Scale, and an Introduction to Tensorflow with Keras.
 https://notebooks.azure.com/dynamicwebpaige/libraries/mvpsummit-1
 
-==============================
+-----------------------------------------
 
 ### 💾 GitHub contributions
 Mostly documentation, especially Azure documentation - but you'll also see ethical modeling guidelines, a few NASA Space Math examples, and machine learning code snippets for VS Code. Have also added minor changes to docs for Magenta, TensorBoard, TensorFlow, and Keras.
 https://github.com/dynamicwebpaige?tab=repositories
 
-==============================
+-----------------------------------------
 
 ### ⚖ Proxy Bias Vignette with R
 Created during the rOpenSci Unconference; was invited to attend by the good folks at numFOCUS. It was a heck of a lot of fun!
 http://blog.revolutionanalytics.com/2018/06/understanding-bias.html
 
-==============================
+-----------------------------------------
 
 ### 🚛 DeepParking: Microsoft One Week Hackathon 2018
 https://github.com/DeepParking/DeepParking
 
-==============================
+-----------------------------------------
 
 ### 🐤 Some examples of Twitter rants:
 Code samples in less than 280 characters:
