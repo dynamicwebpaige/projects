@@ -9,7 +9,7 @@
 * **[Kill (Deep) Math!](https://www.youtube.com/watch?v=n5ae9SejRh4)** (ML4ALL, May 28, 2018)
 * **[BUILD 2018 Azure Keynote: Azure DataBricks and Azure Cognitive Search](https://www.youtube.com/watch?v=n5ae9SejRh4)** (May 2018)
  
-The first is an end-to-end machine learning case study: building a model, containerizing it, and then deploying it with Azure Model Management + calling it as a REST API. The second is an exploration of the mathematics required to implement a neural network. The final example are two quick demos for Build 2018 - one on Azure Cognitive Search, one on Azure DataBricks.
+The first is an end-to-end machine learning case study: building a model, containerizing it, and then deploying it with Azure Model Management + calling it as a REST API. The second is an exploration of the mathematics required to implement a neural network. The final example is two quick demos for Build 2018 - one on Azure Cognitive Search, one on Azure DataBricks.
  
 - _Attendees for the first two:_ ~100; 
 - _Attendees for the third:_ 6000 in-person, 500k live-streamed, >2M in all.
