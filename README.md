@@ -60,4 +60,4 @@ A mobile application that directs Microsoft employees to the closest vacant park
  
 * [Common statistics mistakes when practicing data analysis](https://twitter.com/DynamicWebPaige/status/1045181095518654464)
  
-I, uh, also resuscitate Apple IIs and had a small LLC for wearable machine learning for a bit ([electricute.me](http://electricute.me)). 😊
+I, uh, also resuscitate Apple IIs and had a small LLC for wearable electronics for a bit ([electricute.me](http://electricute.me)). 😊
